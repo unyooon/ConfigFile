@@ -1,0 +1,2 @@
+100
+['Shougo/dein.vim', 'Shougo/deoplete.nvim', 'Shougo/neosnippet', 'Shougo/neosnippet-snippets', 'cohama/lexima.vim', 'lervag/vimtex', 'morhetz/gruvbox', 'nathanaelkane/vim-indent-guides', 'roxma/nvim-yarp', 'roxma/vim-hug-neovim-rpc', 'scrooloose/nerdtree', 'tomasr/molokai', 'tpope/vim-commentary', 'tpope/vim-surround', 'vim-scripts/vim-auto-save']
